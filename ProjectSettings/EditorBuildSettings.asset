@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Map/OpeningMenu.unity
+    guid: 42303739b66b14694902561886cd7255
+  - enabled: 1
+    path: Assets/Map/hashirGameMain.unity
+    guid: e4d2c56ac5f364d05895936ff52c66ee
+  - enabled: 1
+    path: Assets/Map/HowToPlay.unity
+    guid: e39ec57e2dd1c4dad8172d944876294a
+  - enabled: 1
+    path: Assets/Map/Tower/MageTower.unity
+    guid: 0eda3e07f96675345aa9e74e9e080fdc
+  m_configObjects: {}
