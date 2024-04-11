@@ -1,0 +1,7219 @@
+fileFormatVersion: 2
+guid: dfc9b91f90bf4453684f301d7382613d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964d3e87507241ada1851cddb878ba0
+      internalID: 17881239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd6b22079d34692b6526eddbb8f76d
+      internalID: -432188996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34aad952aa964a81846d0ff08e2bfe9
+      internalID: 706179928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463cdfb2b02c4ba4beca294613c4f0d
+      internalID: 339910102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2365ab129d43d5beb7e823971d8b1
+      internalID: -1599310596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8a4df25b404c4890595e9bafabe22
+      internalID: 1044833206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41058a2cea14e6db6fbf60a77bbfd9
+      internalID: -880993565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f6244280ad4ab690ce010b8f13484
+      internalID: 366969045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4496
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f328cae6404736ace4727e07026bf
+      internalID: -879038523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7daef0a31fa47c09e60e1c491756c3
+      internalID: 1202446642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b17caf056346b790e158670497913
+      internalID: 1958337970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743b845f9f296468ca0ee8a1ead0b9d8
+      internalID: 257305968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb608096fb54e43808eade7cbca2f6
+      internalID: -1624726862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783379ac3527403db57d2b279327651
+      internalID: 798745240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7549ebd6e92d4314a9031b7f377a637
+      internalID: 1819455967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7b516848bd4198bd57afb447283e0
+      internalID: 2144115774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517bb230c6384bf2a725c15ce1a1477
+      internalID: 679680862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4368
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe41aaea8acd4a138d88f631adac34b
+      internalID: -1416269119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca818ba39e8431ea9bb852b7af09eb
+      internalID: 1653122969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522cf6ed0f60452ea817570c162f463
+      internalID: -1560835024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab6addf7c7d4ce699cbe615b75afb7
+      internalID: 810612308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03838c15a176482b958d466d86b1b76
+      internalID: 1353429997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c07a86da4a44488d38282f6985c54
+      internalID: -1524613109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251335ff24fc64d438b64ecd23d269d2
+      internalID: 265215229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1178ab7cc12d420d87df0de6e34329c
+      internalID: 831585711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac74f434a9a7434f9b3ff271751656b
+      internalID: -419746999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4240
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e1437db75e49b6ab9b74da1be281a
+      internalID: -1313319591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b249977920c43218cb898ad7990ebc
+      internalID: 631640282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d1b8b207624ed28c94813d243fc45
+      internalID: -352124302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd5f21c7c6243729b5c4cfad9f8251
+      internalID: 1493415776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940aed7235b3a4d6ca5248d8bb7c34b8
+      internalID: 782675233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427e729022dc4096a5c34af7cc7473f
+      internalID: 1117010316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571610e74e1444a5b903c8844a240dd
+      internalID: -1164821901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41020ed02d06742ad9bbd4d1c5f829ce
+      internalID: 1316407227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46401ca8de51402b9999908e0097a1b
+      internalID: -757742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4112
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c082c0cc9ae4d469e97b05bdfbba7b
+      internalID: -1338866310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e7eda437074bd58d14705f86c7b84
+      internalID: -1026899638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1681c44b47d504feb905c3663924d0bb
+      internalID: 1882044501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195d06bab95140c1bdb15b580333a37
+      internalID: -1534904310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb903b8ba7a4e06bba8c6495af87c8
+      internalID: 1562720143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d869a01699400f907268890534f35
+      internalID: 554031890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374a8d3138bd47a884297303f55aa79
+      internalID: 1406672208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e8d72a143a641ff992052a79af050b
+      internalID: -2135220434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a487fa7c39634c1f976ac4aa095fb06
+      internalID: -721699010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3984
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c197b8dace64af49b4dc09eea09e2b
+      internalID: 453923593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404b2f2f824949b3b89a1cd61cbf3d0
+      internalID: 841667390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c26be667d26429bb9e41140cd16b44
+      internalID: -1682050845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6f638b43d71437faee4f85a116fd56
+      internalID: 299746478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb3e744096324b609e9b4bd4f17cec0
+      internalID: -1170679124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d9498f9e054c17b1cc607e6998037
+      internalID: 517147293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc88c1852f1b04c42a52c8f1b095b650
+      internalID: 52128751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c9508681074aaea2769635b4f78f3
+      internalID: 544449113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2929cdf42b904ca7afcf5ced62e93a7
+      internalID: 987119460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3856
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da218c3e6c014df7a8695f89766eb0a
+      internalID: -1411985839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45ec3e271a03462ca8c4b7853f84a5b
+      internalID: 1282678962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3744e1c64515440d89cd489d5a004491
+      internalID: -1044572138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6e76b54115430597c31a88ec74392
+      internalID: 494198555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e1f8edcee64230911b35485de3d2c
+      internalID: 292892556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87c142736814eeeb06b22c72e234d4
+      internalID: -1420121071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642057aea8ed4fa0ad63aedc8c7d32b
+      internalID: -691118548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94707aacd05458192ea04e02828e62
+      internalID: -1364230278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_61
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05804efaf0c104cf581c5b39b2e1e1d1
+      internalID: 1673642933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3728
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d619e2fff04a4d4f9b6ff0a1d0cc9f4
+      internalID: 1914234008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73046e95ab1b8444d92be6863b2b4782
+      internalID: 1306640915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4f50aaa7144d30b522e355349130a
+      internalID: 1317175638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f865f541a34746937796fb0ab7dd4
+      internalID: 1745510004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd535c90c0a204b85ab2d0a84c71cf52
+      internalID: -2002386427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19449d8bdfb4877b31fa8a208c1a55
+      internalID: 1970354406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5b81770ec34c1088d6f12dafe205e
+      internalID: -1882572098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435e186817384c739f3cebf3ef02430
+      internalID: 1035695168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b414d21d8134f4aaabfc5f73324153
+      internalID: 1773890521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_71
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3600
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12578d15c0bc146779fb7a2077a6cba7
+      internalID: 135339781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2133e00841494485291ac3523a8fa4cd
+      internalID: -2095584953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde5bbdc2a1f347b7a7a8be476ef4f31
+      internalID: -265177729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c9230acacd4602a72266e7c539085
+      internalID: -1661032983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2e7bfb38de409084a56a036bf689b
+      internalID: 1065904666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d8a91f4ef7496ebb6c19357193a34
+      internalID: -295898700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a032d5c111ba942e98fc2776071f2f43
+      internalID: -557290730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1b0c9fc02348898eb8f37d81acc74
+      internalID: 32271339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5258363450d5a4f80a859169b09a4967
+      internalID: 1463526447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3472
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fee12b0fa74a869f6cdb58fd053d2
+      internalID: 1857604801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298c925049e449b0a0e4a61d3c9fd79
+      internalID: 801673647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5f5f83a3f843e89f918f0cb180f79
+      internalID: -1492159556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7ec081566448e7a6e976fd584d938
+      internalID: 358322573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096fc66e572f418695aba0024d68aec
+      internalID: -1076433020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621db5850fa23429d81f09c462acb667
+      internalID: 1554793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657b00117286443999b894baafc5e15
+      internalID: -1502189003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbead1a3f9dc14324adc3c1aaa89acf7
+      internalID: 1113226440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_88
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c1a79a02674df6ac65d3654d8c578
+      internalID: -768465850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_89
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3344
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276d0803ef1245898c8de7720f4d603
+      internalID: -1325327912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566de815e3cf42b0b13d7d1c0aca01f
+      internalID: -230795955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f545adf1518a148398568f82a71e778c
+      internalID: -451404383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8259c4a0da4c4fdd9b94c9d7c0d0534
+      internalID: -1323614512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e388e3b791d49d6bd609dc6ce0cf4d
+      internalID: 1709058013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b7a17a3246e40de85c83f7ec3e2423
+      internalID: 1988788809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30614224126b745b0836f7ce2b81dd12
+      internalID: 460058692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_96
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9e1f86bb8b4d2d8a0467ffe8c189c
+      internalID: 2044068340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d7c9f0a70b433fa681895dc3d274d
+      internalID: 1167389595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_98
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3216
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04898a9b6bb8844f9a4266f8efce96a5
+      internalID: 151342741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90b44c801bb4cfaab63dcc5f075302
+      internalID: -125248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3bd1c3c6c54469bdf08526e945751
+      internalID: -1317836249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c95f43dd1f64718850c11b03a7759c
+      internalID: 218936326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc3af8d56125448a993636b8d76e830
+      internalID: -1209135975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f955ca76b2c7144eb858da4572ff600c
+      internalID: 903967504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_104
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2a4160aa6f4775a2adc9f1c21e0e2
+      internalID: 135182811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474bf8253ad624b1185afab1f24ee360
+      internalID: -691532803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_106
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7307dea4d045cc8cb30fb390ec39d
+      internalID: 1479311636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_107
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3088
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a414bced77c149b795b23c20deccea8
+      internalID: 1922677450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf2d302980d43959a11a3d2abf27cf
+      internalID: -1679237024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578c0f5b6f764af48b4cd88e960cd97
+      internalID: 360297288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0816a5fd59c24508826708bc8ee6565
+      internalID: 775091514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0822444feec4bb3ada37c56017cfdd
+      internalID: -1095887351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abb06843346a496f8db8ccb805da6e0
+      internalID: -1233318295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_113
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228994f495f364012ae67c877108d574
+      internalID: 727557366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71b42c7bcac4844880063f3394885f
+      internalID: 1753837732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_115
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f781b9d5704a6a928a9c0bba5d382
+      internalID: -1007766445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_116
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2960
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadba6611b5474995b332958143a6e47
+      internalID: 132282011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c87ab2afaaf43b9b15a17cd6f89443
+      internalID: 1583971149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99923c4403945498ae342008da9f5e
+      internalID: 1127672748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d53f944be7874b4e83109f732927dd5
+      internalID: -1160516848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524117f3f221e43d48f7990707878a56
+      internalID: 963837114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e28f40fc49425d8d4a8ecb2ba1ffe
+      internalID: -1591977238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_122
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391c81a9c7e24a39982b903292f6d56
+      internalID: 1429178729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f8773839054f3cb50cf8c042d3da5
+      internalID: -686524307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d7d0a1233b4e0c829017368b8cbb3
+      internalID: 759494599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2832
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e254f1975134d8195dd6187fc02a15
+      internalID: -2102426226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4556e3c6cbd4f4789c9ac942ae6ace
+      internalID: -787030411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85648560db1cd4239b1a01cd2180c7ae
+      internalID: -569317430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28714821102f442eb010c2b2a220e24
+      internalID: -2101481574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf3a7b718824372a9cbfaeb506e88c
+      internalID: 1954881860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f35bc3b8f6487c846cfc9f3c03be1
+      internalID: -966074432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_131
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b30bae9bcb14d1fb3d96c87ceb856d
+      internalID: 886067886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_132
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b8628b6b2540aeb2ee07e60dec218
+      internalID: 298589398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_133
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf42f51561b4610b6f53a726231721
+      internalID: 867611703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2704
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1bb705f27c847cf8a10c607898e018
+      internalID: 1317486959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce70ea6eefd4537b97035b85df4a31
+      internalID: 1233008411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b27c9b0d6b415187fe3c406f93c9c
+      internalID: -210549843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a13b1a92494bcda450de9a62e2525
+      internalID: 1363767533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b28ad81931446df9ee13280fb1ffa8
+      internalID: 1923462639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_139
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6505896b05f4d38a075e162cf31ebd
+      internalID: 247434028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_140
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8bc3fe034b410f8d3fdf4734916d2
+      internalID: 63916022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_141
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33df45027134a54aaf2f525d0c7e2f
+      internalID: -327325899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf4cd5f3dde433b945fc0cc3a33246
+      internalID: -1839918239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2576
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586491ccdf4847799fcb191c68674eb
+      internalID: 288688638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b59a28676f14c5c9acfefba8944fa3
+      internalID: -472283978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_145
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3421d4ee784947bba344540047d99
+      internalID: 1444072114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160072e88c66a4cafb9b04180193c467
+      internalID: 1312757462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_147
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b9ffb1f38a49c4a982264209078cd
+      internalID: 1270643595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_148
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49194ff00b144a58a3f12bcc031d6cd
+      internalID: 1608041685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc7002635e44275843bb4345495459
+      internalID: 1105154367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1b6563c7eb4fe5b3d2c1f87fe1b1c
+      internalID: -1093199684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_151
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525f2f6b14d942798189a31a9f141be
+      internalID: 1935977399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_152
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2448
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee23dc12f84b4f9e832d3524b13bb93
+      internalID: 704139971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234e955f210a4d1d92f30a9989a57bf
+      internalID: -1798424218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_154
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d585df7c4648a4c90b890e8b33ec8350
+      internalID: 1298576966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54444b6bd1664643961c5682d6e3f7b
+      internalID: -838443798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_156
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9932408720a1f4af5b592092bd4ed97f
+      internalID: -1075950067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a445fe32dbc04f089ad32818c6b6dac
+      internalID: -678110425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d27203757d4bf0812096b4959ad2e
+      internalID: 1935870416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8806fa82fd84485ab0b25cca46077a
+      internalID: 422530577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_160
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9e23a7fc364dccbb0ff64ca044acd
+      internalID: -1086050613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_161
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2320
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc970de283e24330ba5c46f20e2bb82
+      internalID: -2004078867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0084a39dd000457997679fea7652a97
+      internalID: 1957675326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_163
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04582437d81334864b1eee32e33899e9
+      internalID: -890408953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc388318625b840c98e6f996950033ec
+      internalID: 883050075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_165
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4287863dabc4f8480788f673f0b4a0
+      internalID: 1738650566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5fd6c53aee4a71920bfa643e3f4f1
+      internalID: -383831434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_167
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74091ac395f7442b2bda0e8ee7718049
+      internalID: 953088694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_168
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f8e71c0d2e54b24bfaa84fed6e9db3
+      internalID: 1572988692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_169
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d519f73478884ddfb3bb0b9405c5902
+      internalID: 2022370590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_170
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2192
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1ce6f353c04684af1b42f7d45d9da
+      internalID: 704921959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ec529e74dd4164aa4bc6868d371a8
+      internalID: -1283615297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_172
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25610681d083e4748bd1b3e1902b8700
+      internalID: -1807442834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7961cdafee1247de8555b9e0e08f5b3
+      internalID: 1015435435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_174
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1c78dd5c064538bef6beffe840e57
+      internalID: 1594953508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ec8033fd1d495383e24bc5c222320
+      internalID: 1608023545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_176
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1dab84ccfd54f24b358c8588160fb9
+      internalID: 2142163625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_177
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb41250a4f64813b403cb8a849f2cd
+      internalID: 715811868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_178
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e902a8368fb634baa8e72fafe6bb3262
+      internalID: 495763218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_179
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2064
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58e83ec46df4440bb285d7365e8dad
+      internalID: -722694192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2388b7ee6d842cba89a985172ddb6a
+      internalID: -2060537548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_181
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98b1bc10f8f4ca4bea7f387db60fdd
+      internalID: 213766481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_182
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ff3419390d4271b869d83803b35ed
+      internalID: 1063965890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_183
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cf7f9e91404bd4b806d75f50787d7
+      internalID: 713347282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b5f6bb38a44b769f7b0ea4f17fc5c
+      internalID: -1800083432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_185
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa82855a0e7744f0bb5deb9e8a929df7
+      internalID: 1136098884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_186
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198efaed3978842c1a7881467c8beefb
+      internalID: -294450644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_187
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9127fe8d75c424cbc676a8f6b117bd
+      internalID: -1195976967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_188
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1936
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913111ac3f0de423aab1d902c18d6272
+      internalID: 1291305496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d02c73662c04a09b9a7f6d34a4b088
+      internalID: -1551246602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_190
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022607f37c5ea4ba1b221c5dd6b4a386
+      internalID: -1886514705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53f7f8387f94b648c96ed21e7e02eb
+      internalID: 1884678228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76311550cdbe402fbd1b0c0defa31fe
+      internalID: 1499773029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_193
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7ae58ab735428fb453ccfd51e597c
+      internalID: -321521380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_194
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73a35cc1ac44774aa13fde52644cc2
+      internalID: 1399733688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_195
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d07d31f1ed24309bda71b76306a04b
+      internalID: 634271833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_196
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fc049e30b94bb38f08d299dd3ad2e
+      internalID: -1351719714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_197
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1808
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d08233724e449798ba940122ad6b00
+      internalID: 2119489418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf445cc053f44fdb2efabba0d323f8
+      internalID: -1666265312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc039b6f3d34977b6f7727f56d0a20
+      internalID: 1143193351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_200
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221a226f51b4470b8db7fa047d1c747
+      internalID: 2019149918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_201
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea06cc2afdd4305b8853cc40998304
+      internalID: 280213674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7898d85f7ac04446a424d3801cef667
+      internalID: 2124754488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_203
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b71820ea814d7d824233951828d6b
+      internalID: 2022246545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_204
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f246db04cca749f297e96b1fd719fe0
+      internalID: 84367609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_205
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece6a17f01df444cab1838b68beae9c
+      internalID: -1570939821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_206
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166fcc8cce56a49959b36f2a57f07c13
+      internalID: 35135181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6348c06f7e224939b881b685233cfe8
+      internalID: 1978024665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_208
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89024ca2cf5ba466199d1eed170c3481
+      internalID: 1750860112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_209
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f816250fd746f6946178b095c6257
+      internalID: 1737200993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_210
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c73deea3c94c2a89040e2adcb6bc8
+      internalID: 435813470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_211
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e88e7e8eaa49818c9a293b77b2fec
+      internalID: 1892538664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_212
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43be370857d854ffb85c242e2a1cc0bb
+      internalID: -1126484420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_213
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24cf3c8b20d24af4af77a8c79a2bc67
+      internalID: -1772130738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_214
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a41692a829f4219b433d88e6a234e9
+      internalID: -1482389594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_215
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1552
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be5e4bd17f39414ebb2f3e2eccaff93
+      internalID: 820645948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59299c77598484e2b9f7f34f860a1af0
+      internalID: -1996947829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_217
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909be3cca341d42b29f59687a276f4ad
+      internalID: -1469597705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6155ee0ad041d6836d8d15864c85b
+      internalID: -1724996856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_219
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfea821b08e4397811b07b29d2e3e0
+      internalID: -1827614954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_220
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f750d528bb429083df7d9ca823559
+      internalID: -22106759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_221
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f0a31320f646b685e42814b4a52b9
+      internalID: -225327758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_222
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf098357ce5a4535a4e42ca26e60e8c
+      internalID: 513748340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_223
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71597a0328e784c168671de3a0d2d81f
+      internalID: 807503229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_224
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1424
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6da416bddb4d9887f7e993cd8eb89
+      internalID: 1364768909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c617baaf770a465a9c4ba1cdbad33fb
+      internalID: -604656852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_226
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592d88d550524c0199374bae2365fd8
+      internalID: 1639794644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_227
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c12c4219d3c4ed4bbe73aa78761917
+      internalID: -394912968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_228
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e835e1505858463da5fa3a2eaf9df2d
+      internalID: 1259719668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_229
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6fb005a032740f183ff7545cc804a5
+      internalID: 1628088384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_230
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f9a04edfa147d2aa807e5073e4433
+      internalID: -1179347820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_231
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e760f34eab4f0892e5eabf5293b04
+      internalID: -1536132245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_232
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe14cff441ab74bba814bab7f02a7a42
+      internalID: 809238466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_233
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1296
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ac1090469744ae806d739b0d161fb
+      internalID: 169532278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e97eca2ab9f4f9ba792e9850d7e6c5
+      internalID: 509799551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_235
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65986088f50f34d9d938859bf1f6fa48
+      internalID: -1283754033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_236
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b26754086b7407bb5a99455e367f7b
+      internalID: -497522663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_237
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad173d27295644f7b24be015b027bfe
+      internalID: 1649936253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_238
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196bde0d3252469b93ece05e665a755
+      internalID: 1225112597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_239
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0de04f7e8fd4941a11781a5a0b4748
+      internalID: -1200171983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_240
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dadc5e97bc748c9a09e5e9e856eef8
+      internalID: 969670084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_241
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb758e57482fb4391ac13e8196027f6e
+      internalID: 786999023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_242
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1168
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094623791edeb4a12aa068eea645682a
+      internalID: -1723033671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34c1053b11040dda04ed0a68fc86a9
+      internalID: 1671833522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_244
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ea1b646aa6485b9dd3b5b9c36eaf3
+      internalID: -330813556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb05022bb57d49058ecbe22c17b1da5
+      internalID: -1045751314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_246
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940d9824a24744e4fa0a31ad3e1396ee
+      internalID: -704282257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_247
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae3f7808110426aa3a76ab2fce4c84
+      internalID: 1321356445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_248
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be04ce3cb354923a5fdc1d4d378455
+      internalID: -867856409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_249
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc35be0f8c78406d936c7c414f3991a
+      internalID: 118082701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_250
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755bccb342e742188afab7ec01b5558
+      internalID: -798401071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_251
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1040
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d63e5f183e4ec0a8da99a42942bc5
+      internalID: -1320414500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319735bdceef49c3bcc20af9a011078
+      internalID: 1940703066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_253
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa35a9733e54cd28a2714e9846bfd4
+      internalID: -779360149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_254
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886143af13ce44920924cfdd7c8ec530
+      internalID: 1059122774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_255
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34cf9a00938649aea37b3064668cc0e
+      internalID: 926459966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_256
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441b15505c3ba4478bf97f7bcf8e0370
+      internalID: 1205572989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_257
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004af6bac4e314ce399201a106e05aec
+      internalID: 883650275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_258
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b1e49abfcf43a2a11849e36d39888
+      internalID: -661175207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_259
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1311cfbd17429d99b998f13eacd51
+      internalID: 1476882347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_260
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 912
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9ef0c0d5d7430fae9ffaa825f84a7
+      internalID: 163811965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed313fac81b414be5a7a7cb59f812b8f
+      internalID: 11471742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_262
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2b1383ff0d42e4bb969cbea99762b
+      internalID: -1338140213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_263
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264ebef4990d4495b79babb8c3b3a8c
+      internalID: -1001475759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_264
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7af11bee53f472fbb9c41229984ff7
+      internalID: 57300975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_265
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63d4eb009a343fab417be1182db6df
+      internalID: -1040633364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_266
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef3d61391dd40059e06fe378d3fbbe
+      internalID: -1512050269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_267
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 784
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158afd5790bf4a6b89a25e402cab9e1
+      internalID: 171623129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_268
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e06da5ca9e4450b273cf388e38c6f
+      internalID: -824202925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_269
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4565df57a9e4e27964adaed1211b42
+      internalID: 1050233498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_270
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef3599a57ec40a2865d545480ffd6e
+      internalID: 652573159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_271
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8267e592ea40e79ea45e7070a2917
+      internalID: -412700227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_272
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c327f4afcc4a9692a3d62d4924ee1
+      internalID: 499808651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_273
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61d95e3bc35425b96bc3b52419a3de
+      internalID: -758847029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_274
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e9131eecfb4c238e9d8f3a04b5271
+      internalID: 2066797569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_275
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162fb387ee00e494f85ed25205a80b8f
+      internalID: -1607077672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_276
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 656
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5d866ca892422cb67b05c544db724
+      internalID: -534700465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_277
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83908d2588e648c0bae8bdcc59189b5
+      internalID: -1411525766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_278
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1690177369e384711922ea7a875c4f3c
+      internalID: -2101881682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_279
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd1e13a464e4981aa7ebf61196b8df
+      internalID: -171712306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_280
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76fb9495453423aa1c630d8fccc29c
+      internalID: -912573843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_281
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655157db5bcc14f179a1167da51efaeb
+      internalID: -911968830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_282
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df899fc1d5aa463aaadeeaa85ac2018
+      internalID: 861147002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_283
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7eb7e69e4e4d229fd1983e72443fb
+      internalID: -1731515762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_284
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160f51c72b67455ea1a3fd74a415276
+      internalID: 1111285489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_285
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 528
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ac716b109940e18ee0081dd322b96
+      internalID: -519593294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55647253fe73d453a841c12f42b093ea
+      internalID: -1397385320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_287
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d7240f06504361aa5d4c1d019fbc6
+      internalID: 1494992743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_288
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec25cf80184b41c8b549ac1a4a6a067
+      internalID: 540962579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_289
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f9003fed5b49d7a6f20235fc1c99e
+      internalID: -1134878534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_290
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00539b86da1744e0e92fbe47da0c4214
+      internalID: 353579974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_291
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f43c3e90644d8abbf2f095b99a025
+      internalID: 1965623699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_292
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e0f52f60854a8aa1cf449ee16a678
+      internalID: -749205705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_293
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474387ca9ead1469885173a3ed760d1d
+      internalID: 1317463667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_294
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0c706b8fd644bf8d9b120dcf1a5d3
+      internalID: -583107792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_295
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d4c5167c6840d093e080ba3abd07c
+      internalID: -1397236896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_296
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ce23b20c094729becd8395f400b97
+      internalID: 1620353021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_297
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3a099189b34aecb2a752740bd1cbc
+      internalID: 640241628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_298
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4957b3e9580421593b4262eb47601f
+      internalID: 1849716234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_299
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3e35cc474244e38a53778295ea1296
+      internalID: -1717236592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_300
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad77f951c4ef44769f39da8842db8af
+      internalID: 1338874461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_301
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fdf4a02d6b4f708859731e6f30b19
+      internalID: -873842992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_302
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd86cae7c85646e1bb3e1a8d5b69d64
+      internalID: -1247768501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_303
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 272
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295ca80c6877407fa874704ab4a8c8a
+      internalID: 43618958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_304
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697ab465991c4c59995598ae33fa974
+      internalID: -1487129772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_305
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b0e7676c014d1bb8adb0a4b4952d9
+      internalID: 268711815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_306
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab63b46636d4e7092d78b527a311bb
+      internalID: 1502331641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_307
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4cdab2e869b4b6fbb6d73a6dbaaa94
+      internalID: -1041382811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_308
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a117443bf3427ca21e891034e63b3
+      internalID: 439015183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_309
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c01a0999e7a476ca4b800313a42eb6
+      internalID: -324670175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_310
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0b0a31e30546bc96e6138656662d7
+      internalID: 430127005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_311
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04289d759c7694f35935f92b7629bc44
+      internalID: -1048191481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_312
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 144
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8536ea36e14e4e609df2d75ce184f68
+      internalID: -1512370963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_313
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945f0aa3875f42118a0c5870248e4c1
+      internalID: -689556710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_314
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a965b916e364a1bb398825d228739d
+      internalID: -270853189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_315
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf20694269474c5d956ebddb2bc4281
+      internalID: -1885913661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_316
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53dd0efe8cee42839386bb2d86d5152
+      internalID: -1679307278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_317
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31dcaccd47fa4dccbd3bd0e23cf86e1
+      internalID: -1099580943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_318
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cbb83b101843968884e78cada0d2b
+      internalID: -2122926059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_319
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6544728d150417d973813b6856c83b
+      internalID: -1957042617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_320
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d820600ebe24abcb12abe50a482e70
+      internalID: -1220487453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - The Messenger - Barmathazel_321
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 16
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7308fb78524e44e99498f046b72b875
+      internalID: 327677065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - The Messenger - Barmathazel_0: 17881239
+      PC Computer - The Messenger - Barmathazel_1: -432188996
+      PC Computer - The Messenger - Barmathazel_10: 1958337970
+      PC Computer - The Messenger - Barmathazel_100: -1317836249
+      PC Computer - The Messenger - Barmathazel_101: 218936326
+      PC Computer - The Messenger - Barmathazel_102: -1209135975
+      PC Computer - The Messenger - Barmathazel_103: 903967504
+      PC Computer - The Messenger - Barmathazel_104: 135182811
+      PC Computer - The Messenger - Barmathazel_105: -691532803
+      PC Computer - The Messenger - Barmathazel_106: 1479311636
+      PC Computer - The Messenger - Barmathazel_107: 1922677450
+      PC Computer - The Messenger - Barmathazel_108: -1679237024
+      PC Computer - The Messenger - Barmathazel_109: 360297288
+      PC Computer - The Messenger - Barmathazel_11: 257305968
+      PC Computer - The Messenger - Barmathazel_110: 775091514
+      PC Computer - The Messenger - Barmathazel_111: -1095887351
+      PC Computer - The Messenger - Barmathazel_112: -1233318295
+      PC Computer - The Messenger - Barmathazel_113: 727557366
+      PC Computer - The Messenger - Barmathazel_114: 1753837732
+      PC Computer - The Messenger - Barmathazel_115: -1007766445
+      PC Computer - The Messenger - Barmathazel_116: 132282011
+      PC Computer - The Messenger - Barmathazel_117: 1583971149
+      PC Computer - The Messenger - Barmathazel_118: 1127672748
+      PC Computer - The Messenger - Barmathazel_119: -1160516848
+      PC Computer - The Messenger - Barmathazel_12: -1624726862
+      PC Computer - The Messenger - Barmathazel_120: 963837114
+      PC Computer - The Messenger - Barmathazel_121: -1591977238
+      PC Computer - The Messenger - Barmathazel_122: 1429178729
+      PC Computer - The Messenger - Barmathazel_123: -686524307
+      PC Computer - The Messenger - Barmathazel_124: 759494599
+      PC Computer - The Messenger - Barmathazel_125: -2102426226
+      PC Computer - The Messenger - Barmathazel_126: -787030411
+      PC Computer - The Messenger - Barmathazel_127: -569317430
+      PC Computer - The Messenger - Barmathazel_128: -2101481574
+      PC Computer - The Messenger - Barmathazel_129: 1954881860
+      PC Computer - The Messenger - Barmathazel_13: 798745240
+      PC Computer - The Messenger - Barmathazel_130: -966074432
+      PC Computer - The Messenger - Barmathazel_131: 886067886
+      PC Computer - The Messenger - Barmathazel_132: 298589398
+      PC Computer - The Messenger - Barmathazel_133: 867611703
+      PC Computer - The Messenger - Barmathazel_134: 1317486959
+      PC Computer - The Messenger - Barmathazel_135: 1233008411
+      PC Computer - The Messenger - Barmathazel_136: -210549843
+      PC Computer - The Messenger - Barmathazel_137: 1363767533
+      PC Computer - The Messenger - Barmathazel_138: 1923462639
+      PC Computer - The Messenger - Barmathazel_139: 247434028
+      PC Computer - The Messenger - Barmathazel_14: 1819455967
+      PC Computer - The Messenger - Barmathazel_140: 63916022
+      PC Computer - The Messenger - Barmathazel_141: -327325899
+      PC Computer - The Messenger - Barmathazel_142: -1839918239
+      PC Computer - The Messenger - Barmathazel_143: 288688638
+      PC Computer - The Messenger - Barmathazel_144: -472283978
+      PC Computer - The Messenger - Barmathazel_145: 1444072114
+      PC Computer - The Messenger - Barmathazel_146: 1312757462
+      PC Computer - The Messenger - Barmathazel_147: 1270643595
+      PC Computer - The Messenger - Barmathazel_148: 1608041685
+      PC Computer - The Messenger - Barmathazel_149: 1105154367
+      PC Computer - The Messenger - Barmathazel_15: 2144115774
+      PC Computer - The Messenger - Barmathazel_150: -1093199684
+      PC Computer - The Messenger - Barmathazel_151: 1935977399
+      PC Computer - The Messenger - Barmathazel_152: 704139971
+      PC Computer - The Messenger - Barmathazel_153: -1798424218
+      PC Computer - The Messenger - Barmathazel_154: 1298576966
+      PC Computer - The Messenger - Barmathazel_155: -838443798
+      PC Computer - The Messenger - Barmathazel_156: -1075950067
+      PC Computer - The Messenger - Barmathazel_157: -678110425
+      PC Computer - The Messenger - Barmathazel_158: 1935870416
+      PC Computer - The Messenger - Barmathazel_159: 422530577
+      PC Computer - The Messenger - Barmathazel_16: 679680862
+      PC Computer - The Messenger - Barmathazel_160: -1086050613
+      PC Computer - The Messenger - Barmathazel_161: -2004078867
+      PC Computer - The Messenger - Barmathazel_162: 1957675326
+      PC Computer - The Messenger - Barmathazel_163: -890408953
+      PC Computer - The Messenger - Barmathazel_164: 883050075
+      PC Computer - The Messenger - Barmathazel_165: 1738650566
+      PC Computer - The Messenger - Barmathazel_166: -383831434
+      PC Computer - The Messenger - Barmathazel_167: 953088694
+      PC Computer - The Messenger - Barmathazel_168: 1572988692
+      PC Computer - The Messenger - Barmathazel_169: 2022370590
+      PC Computer - The Messenger - Barmathazel_17: -1416269119
+      PC Computer - The Messenger - Barmathazel_170: 704921959
+      PC Computer - The Messenger - Barmathazel_171: -1283615297
+      PC Computer - The Messenger - Barmathazel_172: -1807442834
+      PC Computer - The Messenger - Barmathazel_173: 1015435435
+      PC Computer - The Messenger - Barmathazel_174: 1594953508
+      PC Computer - The Messenger - Barmathazel_175: 1608023545
+      PC Computer - The Messenger - Barmathazel_176: 2142163625
+      PC Computer - The Messenger - Barmathazel_177: 715811868
+      PC Computer - The Messenger - Barmathazel_178: 495763218
+      PC Computer - The Messenger - Barmathazel_179: -722694192
+      PC Computer - The Messenger - Barmathazel_18: 1653122969
+      PC Computer - The Messenger - Barmathazel_180: -2060537548
+      PC Computer - The Messenger - Barmathazel_181: 213766481
+      PC Computer - The Messenger - Barmathazel_182: 1063965890
+      PC Computer - The Messenger - Barmathazel_183: 713347282
+      PC Computer - The Messenger - Barmathazel_184: -1800083432
+      PC Computer - The Messenger - Barmathazel_185: 1136098884
+      PC Computer - The Messenger - Barmathazel_186: -294450644
+      PC Computer - The Messenger - Barmathazel_187: -1195976967
+      PC Computer - The Messenger - Barmathazel_188: 1291305496
+      PC Computer - The Messenger - Barmathazel_189: -1551246602
+      PC Computer - The Messenger - Barmathazel_19: -1560835024
+      PC Computer - The Messenger - Barmathazel_190: -1886514705
+      PC Computer - The Messenger - Barmathazel_191: 1884678228
+      PC Computer - The Messenger - Barmathazel_192: 1499773029
+      PC Computer - The Messenger - Barmathazel_193: -321521380
+      PC Computer - The Messenger - Barmathazel_194: 1399733688
+      PC Computer - The Messenger - Barmathazel_195: 634271833
+      PC Computer - The Messenger - Barmathazel_196: -1351719714
+      PC Computer - The Messenger - Barmathazel_197: 2119489418
+      PC Computer - The Messenger - Barmathazel_198: -1666265312
+      PC Computer - The Messenger - Barmathazel_199: 1143193351
+      PC Computer - The Messenger - Barmathazel_2: 706179928
+      PC Computer - The Messenger - Barmathazel_20: 810612308
+      PC Computer - The Messenger - Barmathazel_200: 2019149918
+      PC Computer - The Messenger - Barmathazel_201: 280213674
+      PC Computer - The Messenger - Barmathazel_202: 2124754488
+      PC Computer - The Messenger - Barmathazel_203: 2022246545
+      PC Computer - The Messenger - Barmathazel_204: 84367609
+      PC Computer - The Messenger - Barmathazel_205: -1570939821
+      PC Computer - The Messenger - Barmathazel_206: 35135181
+      PC Computer - The Messenger - Barmathazel_207: 1978024665
+      PC Computer - The Messenger - Barmathazel_208: 1750860112
+      PC Computer - The Messenger - Barmathazel_209: 1737200993
+      PC Computer - The Messenger - Barmathazel_21: 1353429997
+      PC Computer - The Messenger - Barmathazel_210: 435813470
+      PC Computer - The Messenger - Barmathazel_211: 1892538664
+      PC Computer - The Messenger - Barmathazel_212: -1126484420
+      PC Computer - The Messenger - Barmathazel_213: -1772130738
+      PC Computer - The Messenger - Barmathazel_214: -1482389594
+      PC Computer - The Messenger - Barmathazel_215: 820645948
+      PC Computer - The Messenger - Barmathazel_216: -1996947829
+      PC Computer - The Messenger - Barmathazel_217: -1469597705
+      PC Computer - The Messenger - Barmathazel_218: -1724996856
+      PC Computer - The Messenger - Barmathazel_219: -1827614954
+      PC Computer - The Messenger - Barmathazel_22: -1524613109
+      PC Computer - The Messenger - Barmathazel_220: -22106759
+      PC Computer - The Messenger - Barmathazel_221: -225327758
+      PC Computer - The Messenger - Barmathazel_222: 513748340
+      PC Computer - The Messenger - Barmathazel_223: 807503229
+      PC Computer - The Messenger - Barmathazel_224: 1364768909
+      PC Computer - The Messenger - Barmathazel_225: -604656852
+      PC Computer - The Messenger - Barmathazel_226: 1639794644
+      PC Computer - The Messenger - Barmathazel_227: -394912968
+      PC Computer - The Messenger - Barmathazel_228: 1259719668
+      PC Computer - The Messenger - Barmathazel_229: 1628088384
+      PC Computer - The Messenger - Barmathazel_23: 265215229
+      PC Computer - The Messenger - Barmathazel_230: -1179347820
+      PC Computer - The Messenger - Barmathazel_231: -1536132245
+      PC Computer - The Messenger - Barmathazel_232: 809238466
+      PC Computer - The Messenger - Barmathazel_233: 169532278
+      PC Computer - The Messenger - Barmathazel_234: 509799551
+      PC Computer - The Messenger - Barmathazel_235: -1283754033
+      PC Computer - The Messenger - Barmathazel_236: -497522663
+      PC Computer - The Messenger - Barmathazel_237: 1649936253
+      PC Computer - The Messenger - Barmathazel_238: 1225112597
+      PC Computer - The Messenger - Barmathazel_239: -1200171983
+      PC Computer - The Messenger - Barmathazel_24: 831585711
+      PC Computer - The Messenger - Barmathazel_240: 969670084
+      PC Computer - The Messenger - Barmathazel_241: 786999023
+      PC Computer - The Messenger - Barmathazel_242: -1723033671
+      PC Computer - The Messenger - Barmathazel_243: 1671833522
+      PC Computer - The Messenger - Barmathazel_244: -330813556
+      PC Computer - The Messenger - Barmathazel_245: -1045751314
+      PC Computer - The Messenger - Barmathazel_246: -704282257
+      PC Computer - The Messenger - Barmathazel_247: 1321356445
+      PC Computer - The Messenger - Barmathazel_248: -867856409
+      PC Computer - The Messenger - Barmathazel_249: 118082701
+      PC Computer - The Messenger - Barmathazel_25: -419746999
+      PC Computer - The Messenger - Barmathazel_250: -798401071
+      PC Computer - The Messenger - Barmathazel_251: -1320414500
+      PC Computer - The Messenger - Barmathazel_252: 1940703066
+      PC Computer - The Messenger - Barmathazel_253: -779360149
+      PC Computer - The Messenger - Barmathazel_254: 1059122774
+      PC Computer - The Messenger - Barmathazel_255: 926459966
+      PC Computer - The Messenger - Barmathazel_256: 1205572989
+      PC Computer - The Messenger - Barmathazel_257: 883650275
+      PC Computer - The Messenger - Barmathazel_258: -661175207
+      PC Computer - The Messenger - Barmathazel_259: 1476882347
+      PC Computer - The Messenger - Barmathazel_26: -1313319591
+      PC Computer - The Messenger - Barmathazel_260: 163811965
+      PC Computer - The Messenger - Barmathazel_261: 11471742
+      PC Computer - The Messenger - Barmathazel_262: -1338140213
+      PC Computer - The Messenger - Barmathazel_263: -1001475759
+      PC Computer - The Messenger - Barmathazel_264: 57300975
+      PC Computer - The Messenger - Barmathazel_265: -1040633364
+      PC Computer - The Messenger - Barmathazel_266: -1512050269
+      PC Computer - The Messenger - Barmathazel_267: 171623129
+      PC Computer - The Messenger - Barmathazel_268: -824202925
+      PC Computer - The Messenger - Barmathazel_269: 1050233498
+      PC Computer - The Messenger - Barmathazel_27: 631640282
+      PC Computer - The Messenger - Barmathazel_270: 652573159
+      PC Computer - The Messenger - Barmathazel_271: -412700227
+      PC Computer - The Messenger - Barmathazel_272: 499808651
+      PC Computer - The Messenger - Barmathazel_273: -758847029
+      PC Computer - The Messenger - Barmathazel_274: 2066797569
+      PC Computer - The Messenger - Barmathazel_275: -1607077672
+      PC Computer - The Messenger - Barmathazel_276: -534700465
+      PC Computer - The Messenger - Barmathazel_277: -1411525766
+      PC Computer - The Messenger - Barmathazel_278: -2101881682
+      PC Computer - The Messenger - Barmathazel_279: -171712306
+      PC Computer - The Messenger - Barmathazel_28: -352124302
+      PC Computer - The Messenger - Barmathazel_280: -912573843
+      PC Computer - The Messenger - Barmathazel_281: -911968830
+      PC Computer - The Messenger - Barmathazel_282: 861147002
+      PC Computer - The Messenger - Barmathazel_283: -1731515762
+      PC Computer - The Messenger - Barmathazel_284: 1111285489
+      PC Computer - The Messenger - Barmathazel_285: -519593294
+      PC Computer - The Messenger - Barmathazel_286: -1397385320
+      PC Computer - The Messenger - Barmathazel_287: 1494992743
+      PC Computer - The Messenger - Barmathazel_288: 540962579
+      PC Computer - The Messenger - Barmathazel_289: -1134878534
+      PC Computer - The Messenger - Barmathazel_29: 1493415776
+      PC Computer - The Messenger - Barmathazel_290: 353579974
+      PC Computer - The Messenger - Barmathazel_291: 1965623699
+      PC Computer - The Messenger - Barmathazel_292: -749205705
+      PC Computer - The Messenger - Barmathazel_293: 1317463667
+      PC Computer - The Messenger - Barmathazel_294: -583107792
+      PC Computer - The Messenger - Barmathazel_295: -1397236896
+      PC Computer - The Messenger - Barmathazel_296: 1620353021
+      PC Computer - The Messenger - Barmathazel_297: 640241628
+      PC Computer - The Messenger - Barmathazel_298: 1849716234
+      PC Computer - The Messenger - Barmathazel_299: -1717236592
+      PC Computer - The Messenger - Barmathazel_3: 339910102
+      PC Computer - The Messenger - Barmathazel_30: 782675233
+      PC Computer - The Messenger - Barmathazel_300: 1338874461
+      PC Computer - The Messenger - Barmathazel_301: -873842992
+      PC Computer - The Messenger - Barmathazel_302: -1247768501
+      PC Computer - The Messenger - Barmathazel_303: 43618958
+      PC Computer - The Messenger - Barmathazel_304: -1487129772
+      PC Computer - The Messenger - Barmathazel_305: 268711815
+      PC Computer - The Messenger - Barmathazel_306: 1502331641
+      PC Computer - The Messenger - Barmathazel_307: -1041382811
+      PC Computer - The Messenger - Barmathazel_308: 439015183
+      PC Computer - The Messenger - Barmathazel_309: -324670175
+      PC Computer - The Messenger - Barmathazel_31: 1117010316
+      PC Computer - The Messenger - Barmathazel_310: 430127005
+      PC Computer - The Messenger - Barmathazel_311: -1048191481
+      PC Computer - The Messenger - Barmathazel_312: -1512370963
+      PC Computer - The Messenger - Barmathazel_313: -689556710
+      PC Computer - The Messenger - Barmathazel_314: -270853189
+      PC Computer - The Messenger - Barmathazel_315: -1885913661
+      PC Computer - The Messenger - Barmathazel_316: -1679307278
+      PC Computer - The Messenger - Barmathazel_317: -1099580943
+      PC Computer - The Messenger - Barmathazel_318: -2122926059
+      PC Computer - The Messenger - Barmathazel_319: -1957042617
+      PC Computer - The Messenger - Barmathazel_32: -1164821901
+      PC Computer - The Messenger - Barmathazel_320: -1220487453
+      PC Computer - The Messenger - Barmathazel_321: 327677065
+      PC Computer - The Messenger - Barmathazel_33: 1316407227
+      PC Computer - The Messenger - Barmathazel_34: -757742594
+      PC Computer - The Messenger - Barmathazel_35: -1338866310
+      PC Computer - The Messenger - Barmathazel_36: -1026899638
+      PC Computer - The Messenger - Barmathazel_37: 1882044501
+      PC Computer - The Messenger - Barmathazel_38: -1534904310
+      PC Computer - The Messenger - Barmathazel_39: 1562720143
+      PC Computer - The Messenger - Barmathazel_4: -1599310596
+      PC Computer - The Messenger - Barmathazel_40: 554031890
+      PC Computer - The Messenger - Barmathazel_41: 1406672208
+      PC Computer - The Messenger - Barmathazel_42: -2135220434
+      PC Computer - The Messenger - Barmathazel_43: -721699010
+      PC Computer - The Messenger - Barmathazel_44: 453923593
+      PC Computer - The Messenger - Barmathazel_45: 841667390
+      PC Computer - The Messenger - Barmathazel_46: -1682050845
+      PC Computer - The Messenger - Barmathazel_47: 299746478
+      PC Computer - The Messenger - Barmathazel_48: -1170679124
+      PC Computer - The Messenger - Barmathazel_49: 517147293
+      PC Computer - The Messenger - Barmathazel_5: 1044833206
+      PC Computer - The Messenger - Barmathazel_50: 52128751
+      PC Computer - The Messenger - Barmathazel_51: 544449113
+      PC Computer - The Messenger - Barmathazel_52: 987119460
+      PC Computer - The Messenger - Barmathazel_53: -1411985839
+      PC Computer - The Messenger - Barmathazel_54: 1282678962
+      PC Computer - The Messenger - Barmathazel_55: -1044572138
+      PC Computer - The Messenger - Barmathazel_56: 494198555
+      PC Computer - The Messenger - Barmathazel_57: 292892556
+      PC Computer - The Messenger - Barmathazel_58: -1420121071
+      PC Computer - The Messenger - Barmathazel_59: -691118548
+      PC Computer - The Messenger - Barmathazel_6: -880993565
+      PC Computer - The Messenger - Barmathazel_60: -1364230278
+      PC Computer - The Messenger - Barmathazel_61: 1673642933
+      PC Computer - The Messenger - Barmathazel_62: 1914234008
+      PC Computer - The Messenger - Barmathazel_63: 1306640915
+      PC Computer - The Messenger - Barmathazel_64: 1317175638
+      PC Computer - The Messenger - Barmathazel_65: 1745510004
+      PC Computer - The Messenger - Barmathazel_66: -2002386427
+      PC Computer - The Messenger - Barmathazel_67: 1970354406
+      PC Computer - The Messenger - Barmathazel_68: -1882572098
+      PC Computer - The Messenger - Barmathazel_69: 1035695168
+      PC Computer - The Messenger - Barmathazel_7: 366969045
+      PC Computer - The Messenger - Barmathazel_70: 1773890521
+      PC Computer - The Messenger - Barmathazel_71: 135339781
+      PC Computer - The Messenger - Barmathazel_72: -2095584953
+      PC Computer - The Messenger - Barmathazel_73: -265177729
+      PC Computer - The Messenger - Barmathazel_74: -1661032983
+      PC Computer - The Messenger - Barmathazel_75: 1065904666
+      PC Computer - The Messenger - Barmathazel_76: -295898700
+      PC Computer - The Messenger - Barmathazel_77: -557290730
+      PC Computer - The Messenger - Barmathazel_78: 32271339
+      PC Computer - The Messenger - Barmathazel_79: 1463526447
+      PC Computer - The Messenger - Barmathazel_8: -879038523
+      PC Computer - The Messenger - Barmathazel_80: 1857604801
+      PC Computer - The Messenger - Barmathazel_81: 801673647
+      PC Computer - The Messenger - Barmathazel_82: -1492159556
+      PC Computer - The Messenger - Barmathazel_83: 358322573
+      PC Computer - The Messenger - Barmathazel_84: -1076433020
+      PC Computer - The Messenger - Barmathazel_85: 1554793769
+      PC Computer - The Messenger - Barmathazel_86: -1502189003
+      PC Computer - The Messenger - Barmathazel_87: 1113226440
+      PC Computer - The Messenger - Barmathazel_88: -768465850
+      PC Computer - The Messenger - Barmathazel_89: -1325327912
+      PC Computer - The Messenger - Barmathazel_9: 1202446642
+      PC Computer - The Messenger - Barmathazel_90: -230795955
+      PC Computer - The Messenger - Barmathazel_91: -451404383
+      PC Computer - The Messenger - Barmathazel_92: -1323614512
+      PC Computer - The Messenger - Barmathazel_93: 1709058013
+      PC Computer - The Messenger - Barmathazel_94: 1988788809
+      PC Computer - The Messenger - Barmathazel_95: 460058692
+      PC Computer - The Messenger - Barmathazel_96: 2044068340
+      PC Computer - The Messenger - Barmathazel_97: 1167389595
+      PC Computer - The Messenger - Barmathazel_98: 151342741
+      PC Computer - The Messenger - Barmathazel_99: -125248128
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
